@@ -1,5 +1,5 @@
 {
-  "name": "xeruci-portfolio",
+  "name": "clear",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,10 +11,23 @@
   "dependencies": {
     "next": "11.1.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "styled-components": "^5.3.1"
   },
   "devDependencies": {
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.2"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackXN/xeruci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackXN/xeruci/issues"
+  },
+  "homepage": "https://github.com/JackXN/xeruci#readme"
 }
